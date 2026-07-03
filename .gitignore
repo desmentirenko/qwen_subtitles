@@ -1,1 +1,3 @@
-Nothing should be ignored based on the provided file changes. The only added file is a Python source file (`qwen_coder_agent_v2.py`), which should not be ignored. There are no build artifacts, dependencies, temporary files, or other items that need to be excluded.
+(video_urls.txt is a source/config file, not a build artifact, dependency, or temp file - so no ignores needed)
+
+(empty)
