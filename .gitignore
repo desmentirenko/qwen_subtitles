@@ -1,3 +1,3 @@
-(video_urls.txt is a source/config file, not a build artifact, dependency, or temp file - so no ignores needed)
-
-(empty)
+```
+*.log
+```
