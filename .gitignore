@@ -1,3 +1,17 @@
 ```
+# Environment and temporary files
+.env
+.env.local
+*.env.*
+
+# Logs and temporary files
 *.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Youtube downloads metadata
+Youtube_Downloads/*.json
 ```
